@@ -1,0 +1,6 @@
+create virtual environment
+install djnago
+django-admin (list all commands)
+start project
+cd django_project
+tree (show structure of directory)
